@@ -4,7 +4,7 @@
 
 - <b>Power BI analysis on Sales Data (PowerBIExpert)
 - [Building Reports using charts and dashboards](https://github.com/folahan11-hash/Financial-Sales-Performance-Dashboard)
-- <b>Python</b>
+- <b>SQL: RFM Analysis for Retail Sales</b>
   - [Interactive Dashboards](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
