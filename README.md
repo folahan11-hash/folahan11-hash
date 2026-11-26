@@ -5,7 +5,7 @@
 - <b>Power BI analysis on Sales Data (PowerBIExpert)
 - [Building Reports using charts and dashboards](https://github.com/folahan11-hash/Financial-Sales-Performance-Dashboard)
 - <b>SQL: RFM Analysis for Retail Sales</b>
-  - [Interactive Dashboards](https://github.com/folahan11-hash/RFM-analysis-on-Retail-Sales-Company-Numbers) <b><i></b></i>
+  - [RFM analysis](https://github.com/folahan11-hash/RFM-analysis-on-Retail-Sales-Company-Numbers) <b><i></b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
