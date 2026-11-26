@@ -1,4 +1,4 @@
-<h1>Hi, I'm Fola! <br/><a Data Analyst</a>, <a href="https://www.linkedin.com/in/olufolahan-adeloye-483395238/">Network Security Analyst</a>, <a href="https://www.youtube.com/c/joshmadakor">Data Engineer</a></h1>
+<h1>Hi, I'm Fola! <br/><a href="https://www.linkedin.com/in/olufolahan-adeloye-483395238/"> Data Analyst</a>, <a href="https://www.linkedin.com/in/olufolahan-adeloye-483395238/">Network Security Analyst</a>, <a href="https://www.youtube.com/c/joshmadakor">Data Engineer</a></h1>
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
