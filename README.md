@@ -1,6 +1,6 @@
 <h1>Hi, I'm Fola! <br/><a href="https://www.linkedin.com/in/olufolahan-adeloye-483395238/"> Data Analyst</a>, <a href="https://www.linkedin.com/in/olufolahan-adeloye-483395238/">Network Security Analyst</a>, <a href="https://www.linkedin.com/in/olufolahan-adeloye-483395238/">Data Engineer</a></h1>
 
-<h2>👨‍💻 Data Analysis Projects:</h2>
+<h2>👨‍💻 Data Analysis & Engineering Projects:</h2>
 
 - <b>Power BI analysis on Sales Data (PowerBIExpert)
 - [Building Reports using charts and dashboards](https://github.com/folahan11-hash/Financial-Sales-Performance-Dashboard)
